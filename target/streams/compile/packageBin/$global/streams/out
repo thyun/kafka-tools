@@ -1,1 +1,23 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /Users/1001291/workspace-scala/pmon-kafka-tools-0.8.x/target/scala-2.10/pmon-kafka-tools_2.10-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/kafka-tools_2.10-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Greeting$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/Greeting$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/UpdateOffsetsInZK$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/UpdateOffsetsInZK$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/UpdateOffsetsInZK.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/UpdateOffsetsInZK.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/UpdateOffsetsInZK$$anonfun$getAndSetOffsets$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/UpdateOffsetsInZK$$anonfun$getAndSetOffsets$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/UpdateOffsetsInZK$$anonfun$getAndSetOffsets$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/1001291/workspace-scala/kafka-tools/target/scala-2.10/classes/example/UpdateOffsetsInZK$$anonfun$getAndSetOffsets$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
